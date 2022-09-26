@@ -61,9 +61,9 @@ afterEvaluate {
 
                 from components.release
 
-                groupId = 'https://github.com/yogirajthombre'
+                groupId = 'com.github.yogirajthombre'
                 artifactId = 'rotatestickanimation'
-                version = '1.0'
+                version = '1.01'
 
 
             }
