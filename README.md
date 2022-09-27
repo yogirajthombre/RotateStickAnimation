@@ -34,5 +34,7 @@ RotatetheStick(
                 end_angle = 360.0f               // Rotation to angle 
                 durationMillis = 1500           // Duration of animation.
             )
+            
+ You can alter the parameters passed to the method RotatetheStick() as per your requirement 
 
 ```
